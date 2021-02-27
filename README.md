@@ -8,11 +8,11 @@ Cude 就是使用Uni-app开发前端，使用 Wordpress RESTful API 作为后端
 
 
 ### 项目截图
-![thumbnail](./static/images/screenshot/img-01.jpeg);
-![thumbnail](./static/images/screenshot/img-02.jpeg);
-![thumbnail](./static/images/screenshot/img-03.jpeg);
-![thumbnail](./static/images/screenshot/img-04.jpeg);
-![thumbnail](./static/images/screenshot/img-05.jpeg);
+![thumbnail](./static/images/screenshot/img-01.jpeg)
+![thumbnail](./static/images/screenshot/img-02.jpeg)
+![thumbnail](./static/images/screenshot/img-03.jpeg)
+![thumbnail](./static/images/screenshot/img-04.jpeg)
+![thumbnail](./static/images/screenshot/img-05.jpeg)
 
 
 ### 贡献者
