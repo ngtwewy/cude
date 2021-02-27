@@ -1,0 +1,39 @@
+/* Lee 公共类  ---------------------------------- */
+.default-light-color{color: #007aff!important;}
+// .default-light-color-gray{color: $custom-link-color-gray;}
+
+.one-line{
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
+.two-line{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    line-height: 50rpx;
+}
+
+
+
+/*  ADD BY ME  */
+/* 全局自定义按钮 */
+
+
+
+//App去除导航栏后改变状态栏样式
+.status_bar {  
+    height: var(--status-bar-height);  
+    width: 100%;  
+    background-color: #376aff;  
+}  
+.top_view {  
+    height: var(--status-bar-height);  
+    width: 100%;  
+    position: fixed;  
+    background-color: #376aff;  
+    top: 0;  
+    z-index: 999;  
+}
+
